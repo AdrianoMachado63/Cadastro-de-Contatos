@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Cadastro-de-Contatos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B61C8564-D67D-41B1-AC65-77C6EE473155}|Cadastro de Contatos\\Cadastro de Contatos.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\cadastro-de-contatos\\cadastro de contatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B61C8564-D67D-41B1-AC65-77C6EE473155}|Cadastro de Contatos\\Cadastro de Contatos.csproj|solutionrelative:cadastro de contatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B61C8564-D67D-41B1-AC65-77C6EE473155}|Cadastro de Contatos\\Cadastro de Contatos.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\cadastro-de-contatos\\cadastro de contatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B61C8564-D67D-41B1-AC65-77C6EE473155}|Cadastro de Contatos\\Cadastro de Contatos.csproj|solutionrelative:cadastro de contatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B61C8564-D67D-41B1-AC65-77C6EE473155}|Cadastro de Contatos\\Cadastro de Contatos.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\cadastro-de-contatos\\cadastro de contatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B61C8564-D67D-41B1-AC65-77C6EE473155}|Cadastro de Contatos\\Cadastro de Contatos.csproj|solutionrelative:cadastro de contatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B61C8564-D67D-41B1-AC65-77C6EE473155}|Cadastro de Contatos\\Cadastro de Contatos.csproj|c:\\users\\adria\\documentos\\projetos_versionados\\conta adrianomachado63\\repositorio csharp\\cadastro-de-contatos\\cadastro de contatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B61C8564-D67D-41B1-AC65-77C6EE473155}|Cadastro de Contatos\\Cadastro de Contatos.csproj|solutionrelative:cadastro de contatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 360,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ContatoController.cs",
               "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Cadastro-de-Contatos\\Cadastro de Contatos\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "Cadastro de Contatos\\Controllers\\ContatoController.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Cadastro-de-Contatos\\Cadastro de Contatos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Cadastro de Contatos\\Controllers\\HomeController.cs",
@@ -51,15 +51,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Cadastro-de-Contatos\\Cadastro de Contatos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Cadastro de Contatos\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Cadastro-de-Contatos\\Cadastro de Contatos\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Cadastro de Contatos\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T15:07:00.307Z"
+              "WhenOpened": "2025-03-02T15:07:00.307Z",
+              "EditorCaption": ""
             }
           ]
         }
