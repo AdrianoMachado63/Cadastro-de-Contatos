@@ -1,0 +1,34 @@
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\appsettings.Development.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\appsettings.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.staticwebassets.runtime.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.staticwebassets.endpoints.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.exe
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.deps.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.runtimeconfig.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.dll
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.pdb
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.AssemblyInfoInputs.cache
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.AssemblyInfo.cs
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.csproj.CoreCompileInputs.cache
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.RazorAssemblyInfo.cache
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.RazorAssemblyInfo.cs
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\scopedcss\bundle\Cadastro de Contatos.styles.css
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\scopedcss\projectbundle\Cadastro de Contatos.bundle.scp.css
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.Cadastro de Contatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.Cadastro de Contatos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.build.Cadastro de Contatos.props
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cadastro de Contatos.props
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cadastro de Contatos.props
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.dll
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\refint\Cadastro de Contatos.dll
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.pdb
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.genruntimeconfig.cache
+C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\ref\Cadastro de Contatos.dll

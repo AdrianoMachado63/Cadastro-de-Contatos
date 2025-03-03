@@ -1,0 +1,39 @@
+﻿@*Razor empty da contato controller*@
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@* index da ContatoController *@
+
+@{
+    ViewData["Title"] = "Criar contatos";
+}
+
+<div class="text-center">
+
+  
+    <h1 class="display-4">Cadastrar Contatos</h1>
+
+
+</div>
+
+<form>
+  <div class="mb-3">
+    <label for="nome"> Nome</label>
+    <input type="text" class="form-control"  placeholder="digite o nome do contato">
+    </div>
+  <div class="mb-3">
+    <label for="email"> E-mail</label>
+    <input type="text" class="form-control" placeholder="digite o e-mail do contato">
+    </div>
+  <div class="mb-3">
+    <label for="celular"> Celular</label>
+    <input type="text" class="form-control" placeholder="digite o celular do contato">
+  </div>
+
+    <div class="d-grid gap-2">
+        <button type="submit" class="btn btn-primary" role="button">Adicionar</button>
+        <button class="btn btn-secondary" asp-controller="Contato" asp-action="Index" role="button">Voltar</button>
+    </div>
+</form>
