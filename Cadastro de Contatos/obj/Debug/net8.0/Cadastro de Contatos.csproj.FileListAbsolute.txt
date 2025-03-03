@@ -32,3 +32,38 @@ C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contato
 C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.pdb
 C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.genruntimeconfig.cache
 C:\Projetos CSharp\Controle de Contatos\Cadastro de Contatos\Cadastro de Contatos\obj\Debug\net8.0\ref\Cadastro de Contatos.dll
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\appsettings.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.staticwebassets.endpoints.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.staticwebassets.runtime.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.exe
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.deps.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.runtimeconfig.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.dll
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\bin\Debug\net8.0\Cadastro de Contatos.pdb
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.AssemblyInfoInputs.cache
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.AssemblyInfo.cs
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.RazorAssemblyInfo.cache
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.RazorAssemblyInfo.cs
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.sourcelink.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\scopedcss\bundle\Cadastro de Contatos.styles.css
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\scopedcss\projectbundle\Cadastro de Contatos.bundle.scp.css
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.Cadastro de Contatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.Cadastro de Contatos.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.build.Cadastro de Contatos.props
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cadastro de Contatos.props
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cadastro de Contatos.props
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.dll
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\refint\Cadastro de Contatos.dll
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.pdb
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\Cadastro de Contatos.genruntimeconfig.cache
+C:\Users\adria\Documentos\Projetos_Versionados\Conta AdrianoMachado63\Repositorio Csharp\Cadastro-de-Contatos\Cadastro de Contatos\obj\Debug\net8.0\ref\Cadastro de Contatos.dll
