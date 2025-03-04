@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cadastro de Contatos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d77af6a7707a601427eb25adf50f7daa4fad4cbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db341084072ae3026854180db9224f2408fc5eb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cadastro de Contatos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cadastro de Contatos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
