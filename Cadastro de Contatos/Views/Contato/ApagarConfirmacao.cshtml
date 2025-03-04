@@ -6,9 +6,9 @@
     <h3>Realmente deseja apagar o contato(Adriano Machado)?</h3>
 </div>
 
-<div class="d-grid gap-2">
-    <button type="submit" class="btn btn-primary" role="button">Cancelar Exclusão</button>
-    <button class="btn btn-danger" asp-controller="Contato" asp-action="ApagarConfirmacao" role="button">Confirmar Exclusão</button>
-</div>
 
+<div class="d-grid gap-2">
+   <a class="btn btn-primary btn-block" role="button" asp-controller="Contato" asp-action="Index">Cancelar Exclusão</a>
+   <a class="btn btn-danger btn-block" role="button" asp-controller="Contato" asp-action="Apagar">Confirmar Exclusão</a>
+</div>
 
